@@ -1,0 +1,2 @@
+switch is an electrical device that is used to break or make electrical circuits. switches have many types SPDT,SPDT ,DPST SPDT.They have application in residential lighting as dimming on of control mobile phones for power on off volume control also in automobile for the light control.In C language switch is powerful decision making construct that simplify handling multiple condition .switch has application in C as controlling device as ATM machine ,calculator, gives command and option ,in game development also handling the event .
+
